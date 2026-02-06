@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vk18-tech/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vk18-tech/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
