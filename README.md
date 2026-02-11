@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vk18-tech/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/vk18-tech/leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/vk18-tech/leetcode/tree/master/0039-combination-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vk18-tech/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/vk18-tech/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/vk18-tech/leetcode/tree/master/0176-second-highest-salary) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/vk18-tech/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
