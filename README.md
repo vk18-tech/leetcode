@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vk18-tech/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/vk18-tech/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/vk18-tech/leetcode/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/vk18-tech/leetcode/tree/master/0049-group-anagrams) |
 | [0287-find-the-duplicate-number](https://github.com/vk18-tech/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vk18-tech/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/vk18-tech/leetcode/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vk18-tech/leetcode/tree/master/0039-combination-sum) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vk18-tech/leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vk18-tech/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
