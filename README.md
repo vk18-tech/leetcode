@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vk18-tech/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/vk18-tech/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/vk18-tech/leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/vk18-tech/leetcode/tree/master/0066-plus-one) |
 | [0287-find-the-duplicate-number](https://github.com/vk18-tech/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vk18-tech/leetcode/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/vk18-tech/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
