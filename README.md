@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vk18-tech/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vk18-tech/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vk18-tech/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/vk18-tech/leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/vk18-tech/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vk18-tech/leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/vk18-tech/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vk18-tech/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/vk18-tech/leetcode/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
