@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vk18-tech/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vk18-tech/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vk18-tech/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vk18-tech/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/vk18-tech/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vk18-tech/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/vk18-tech/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vk18-tech/leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/vk18-tech/leetcode/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
