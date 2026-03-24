@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vk18-tech/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/vk18-tech/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/vk18-tech/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/vk18-tech/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/vk18-tech/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vk18-tech/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vk18-tech/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -68,6 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vk18-tech/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vk18-tech/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vk18-tech/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vk18-tech/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
