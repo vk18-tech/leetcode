@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vk18-tech/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vk18-tech/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/vk18-tech/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/vk18-tech/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/vk18-tech/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
